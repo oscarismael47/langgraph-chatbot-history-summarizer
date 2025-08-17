@@ -13,7 +13,7 @@ A Streamlit-powered chatbot demo using LangGraph, LangChain, and OpenAI. Feature
 ## Access the App
 
 You can try the chatbot directly at:  
-**[https://simple-langgraph-chatbot.streamlit.app/](https://simple-langgraph-chatbot.streamlit.app/)**
+**[https://oscarismael47-langgraph-chatbot-history-summarizer-app-tq4adn.streamlit.app/](https://oscarismael47-langgraph-chatbot-history-summarizer-app-tq4adn.streamlit.app/)**
 
 ## Setup
 
