@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env
+venv/
+env/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# Images and logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.sqlite3
+*.db
